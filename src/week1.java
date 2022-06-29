@@ -1,3 +1,5 @@
+
+
 public class week1 {
     public static void main(String[] args){
 
@@ -11,6 +13,8 @@ public class week1 {
 //        Exercise2
        int x= 10;
        int y= 10;
+
+//       Exercise3
 
 
 
